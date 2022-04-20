@@ -1,0 +1,144 @@
+.background{
+    background-image: url("images/student.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.backg{
+    background-image: url("images/M.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    display: flex;
+    justify-content: right;
+    margin-right: 450px;
+    width:60px;
+    padding: 10px;
+}
+.logos{
+    display: flex;
+    justify-content: right;
+    margin-right: 450px;
+    width:60px;
+    padding: 10px;
+}
+.TEXT{
+    color: rgba(214, 52, 65, 0.712);
+
+}
+.main,li,a{
+    display: inline-block;
+    list-style: none;
+    display: flex;
+margin-left: 30px;
+    justify-content: end; 
+    color: rgb(119, 12, 241);
+}
+.m,li,a{
+    display: inline-block;
+    list-style: none;
+    display: flex;
+margin-left: 30px;
+    justify-content: end; 
+    color: rgb(68, 7, 165);
+}
+.backg,.m,li,a{
+    position: sticky;
+    top: 0%;
+}
+.background,main,li,a{
+    position: sticky;
+    top: 0%;
+}
+.main{
+    background-color: rgb(184, 50, 50);
+    padding: 1%;
+    margin-right: 1%;
+}
+.m{
+    background-color: rgb(223, 192, 13);
+    padding: 1%;
+    margin-right: 1%;
+}
+.best,.BEST{
+    color: aliceblue;
+    background-color: rgb(11, 11, 167);
+    padding: 1%;
+    margin: 2%;
+    width: 179px;
+}
+.we{
+    color: aliceblue;
+    background-color: rgb(167, 125, 11);
+    padding: 1%;
+    margin: 2%;
+    width: 330px;
+}
+.READ{
+    color: aliceblue;
+    background-color: rgb(219, 47, 17);
+    padding: 1%;
+    margin: 2%;
+    width: 130px;
+}
+.WE,.our{
+text-align: center;
+margin: 3%;
+}
+.img{
+width: 100%;
+}
+.imgofsch{
+    background-image: url("images/teddys.jpeg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.imgofschs{
+    background-image: url("images/p.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2{
+
+    text-align:center;
+    text-shadow: 33ch;
+    margin: 4%;
+    color: rgb(30, 30, 126);
+}
+.studentes{
+    background-image: url("images/school.jpg");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.CON1,.C{
+    background-color: aqua;
+border: 4ch;
+text-align: center;
+padding-right: 15PX;
+padding-left:  15px;
+margin-left:  auto;
+margin-right: auto;
+}
+.fon{
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    line-height: 2.4288;
+    text-align: center;
+    background-color: rgb(206, 189, 112);
+    background-image: none;
+    border: 1px solid;
+}
+.body{
+    background-color: cornflowerblue;
+}
